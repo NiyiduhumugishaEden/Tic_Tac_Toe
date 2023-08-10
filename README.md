@@ -1,4 +1,4 @@
-# google_signin
+# Flutter tic_tac_toe game
 
 A new Flutter project.
 
